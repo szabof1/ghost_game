@@ -1,0 +1,13 @@
+{
+  "name": "ghost_game",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node ghost_game_server.js"
+  },
+  "dependencies": {
+    "express": "~4.13.4",
+    "body-parser": "~1.15.0",
+    "cors": "~2.7.1"
+  }
+}
